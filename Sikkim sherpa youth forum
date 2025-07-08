@@ -1,0 +1,64 @@
+# All-sikkim-sherpa-youth-forum-
+Website for Sherpa Youth Forum”
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sherpa Youth Forum</title>
+  <style>
+    body { margin: 0; font-family: Arial, sans-serif; background: #f9f9f9; color: #333; }
+    header { background: #005f73; color: white; padding: 1rem; text-align: center; }
+    nav { background: #0a9396; padding: 0.5rem; text-align: center; }
+    nav a { color: white; margin: 0 1rem; text-decoration: none; font-weight: bold; }
+    main { padding: 2rem; }
+    section { margin-bottom: 2rem; }
+    footer { background: #005f73; color: white; text-align: center; padding: 1rem; }
+    img.logo { max-height: 80px; margin-bottom: 0.5rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="Sherpa Youth Forum Logo" class="logo" />
+    <h1>Welcome to Sherpa Youth Forum</h1>
+    <p>Preserving our heritage, empowering our youth</p>
+  </header>  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#events">Events</a>
+    <a href="#gallery">Gallery</a>
+    <a href="#contact">Contact</a>
+  </nav>  <main>
+    <section id="home">
+      <h2>Home</h2>
+      <p>Welcome to the official website of the Sherpa Youth Forum. We aim to unite Sherpa youth, promote our rich culture, and engage in meaningful community activities.</p>
+    </section><section id="about">
+  <h2>About Us</h2>
+  <p>The Sherpa Youth Forum was founded to bring together young Sherpas, preserve our language and traditions, and support educational and cultural initiatives for future generations.</p>
+</section>
+
+<section id="events">
+  <h2>Events</h2>
+  <ul>
+    <li>Annual Cultural Festival – September</li>
+    <li>Youth Leadership Workshop – December</li>
+    <li>Community Clean-up Drive – April</li>
+  </ul>
+</section>
+
+<section id="gallery">
+  <h2>Gallery</h2>
+  <p>Photos coming soon! Share your event photos with us.</p>
+</section>
+
+<section id="contact">
+  <h2>Contact Us</h2>
+  <p>Email: sherpayouthforum@example.com</p>
+  <p>Phone: +91-XXXXXXXXXX</p>
+  <p>Facebook: <a href="#" target="_blank">Sherpa Youth Forum</a></p>
+</section>
+
+  </main>  <footer>
+    &copy; 2025 Sherpa Youth Forum. All rights reserved.
+  </footer>
+</body>
+</html>

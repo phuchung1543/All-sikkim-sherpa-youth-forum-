@@ -33,8 +33,7 @@
   <main>
     <section id="home">
       <h2>Home</h2>
-      <p>Welcome to the official website of the Sherpa Youth Forum. We aim to unite Sherpa youth, promote our rich culture, and engage in meaningful community activities.</p>
-    </section>
+      <p>Welcome to the official website of the Sherpa Youth Forum. We aim to unite Sherpa youth, promote our rich culture, and engage in meaningful community
 
     <section id="about">
       <h2>About Us</h2>
